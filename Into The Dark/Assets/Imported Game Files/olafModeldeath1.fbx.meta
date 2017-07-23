@@ -1,0 +1,126 @@
+fileFormatVersion: 2
+guid: d23980540ab6a924b8938c5bfb6f241b
+timeCreated: 1500696297
+licenseType: Free
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: deathAnimation:Character1_Head
+    100002: deathAnimation:Character1_Hips
+    100004: deathAnimation:Character1_LeftArm
+    100006: deathAnimation:Character1_LeftFoot
+    100008: deathAnimation:Character1_LeftForeArm
+    100010: deathAnimation:Character1_LeftHand
+    100012: deathAnimation:Character1_LeftLeg
+    100014: deathAnimation:Character1_LeftShoulder
+    100016: deathAnimation:Character1_LeftUpLeg
+    100018: deathAnimation:Character1_Neck
+    100020: deathAnimation:Character1_RightArm
+    100022: deathAnimation:Character1_RightFoot
+    100024: deathAnimation:Character1_RightForeArm
+    100026: deathAnimation:Character1_RightHand
+    100028: deathAnimation:Character1_RightLeg
+    100030: deathAnimation:Character1_RightShoulder
+    100032: deathAnimation:Character1_RightUpLeg
+    100034: deathAnimation:Character1_Spine
+    100036: deathAnimation:Character1_Spine1
+    100038: deathAnimation:Character1_Spine2
+    100040: //RootNode
+    400000: deathAnimation:Character1_Head
+    400002: deathAnimation:Character1_Hips
+    400004: deathAnimation:Character1_LeftArm
+    400006: deathAnimation:Character1_LeftFoot
+    400008: deathAnimation:Character1_LeftForeArm
+    400010: deathAnimation:Character1_LeftHand
+    400012: deathAnimation:Character1_LeftLeg
+    400014: deathAnimation:Character1_LeftShoulder
+    400016: deathAnimation:Character1_LeftUpLeg
+    400018: deathAnimation:Character1_Neck
+    400020: deathAnimation:Character1_RightArm
+    400022: deathAnimation:Character1_RightFoot
+    400024: deathAnimation:Character1_RightForeArm
+    400026: deathAnimation:Character1_RightHand
+    400028: deathAnimation:Character1_RightLeg
+    400030: deathAnimation:Character1_RightShoulder
+    400032: deathAnimation:Character1_RightUpLeg
+    400034: deathAnimation:Character1_Spine
+    400036: deathAnimation:Character1_Spine1
+    400038: deathAnimation:Character1_Spine2
+    400040: //RootNode
+    7400000: Take 001
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
